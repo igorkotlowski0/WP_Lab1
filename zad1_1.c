@@ -7,6 +7,9 @@ int main() {
     char znak = 'A';
     bool prawko = true;
 
+    scanf("%a", &rok_urodzenia);
+    scanf()
+
     printf("Zmienna 'rok_urodzenia' ma wartość: %d i zajmuje %zu bajty\n", rok_urodzenia, sizeof(rok_urodzenia));
     printf("Zmienna 'wzrost' ma wartość: %.2f i zajmuje %zu bajty\n", wzrost, sizeof(wzrost));
     printf("Zmienna 'znak' ma wartość: %c i zajmuje %zu bajty\n", znak, sizeof(znak));
