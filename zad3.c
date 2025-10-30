@@ -9,8 +9,7 @@ int main() {
     printf("wybierz C lub F")
     scanf("%c" &kierunek)
 
-    if ("%c" = 'C')
-    {
+    if ("%c" = 'C') {
         printf();
     }
     else ("%c" = 'F')
